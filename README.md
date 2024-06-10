@@ -1,2 +1,2 @@
-# data_science_portfolio
-Portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+# data_science_projects
+Data science projects completed by me for academic, self learning, and hobby purposes.
